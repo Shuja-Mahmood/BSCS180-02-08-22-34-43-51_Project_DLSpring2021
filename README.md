@@ -5,16 +5,21 @@ Wheat Dataset taken from [Kaggle](https://www.kaggle.com/c/global-wheat-detectio
 # Models
 All trained models are available in the [Checkpoints folder]()
 # Input
-![img]()
-![img]()
-![img]()
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/ad3fea21b_inp.jpg)
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/b2de96e22_inp.jpg)
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/b77e8c906_inp.jpg)
 # Output
-![img]()
-![img]()
-![img]()
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/ad3fea21b.jpg)
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/b2de96e22.jpg)
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/b77e8c906.jpg)
 # Evaluation
-![img]()
-![img]()
-![img]()
-![img]()
-![img]()
+## F1 curve
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/F1_curve.png)
+## P curve
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/P_curve.png)
+## R curve
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/R_curve.png)
+## PR curve
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/PR_curve.png)
+## Confusion Matrix
+![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/confusion_matrix.png)
