@@ -3,7 +3,7 @@ This repository contains code and results for the Course Project by Deep Learnin
 # Dataset
 Wheat Dataset taken from [Kaggle](https://www.kaggle.com/c/global-wheat-detection/data) available in this repository [here](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/tree/main/yolov5/Wheat_data/labels)
 # Models
-All trained models are available in the [Checkpoints folder]()
+All trained models are available in the [Checkpoints folder](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/tree/main/Checkpoints)
 # Input
 ![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/ad3fea21b_inp.jpg)
 ![img](https://github.com/Shuja-Mahmood/BSCS180-02-08-22-34-43-51_Project_DLSpring2021/blob/main/images/b2de96e22_inp.jpg)
